@@ -17,5 +17,16 @@ public class MetinIslemleriTest {
 		
 		
 	}
-
+	public void testBosluklariTemizle2() {
+		
+		String orjinalMetin="Merhaba arkadaşlar";
+		
+		String sonuc =MetinIslemleri.bosluklariTemizle(orjinalMetin);
+		
+		assertEquals("Merhaba arkadaşlar....",sonuc);
+		
+		
+	}
+	
+	
 }

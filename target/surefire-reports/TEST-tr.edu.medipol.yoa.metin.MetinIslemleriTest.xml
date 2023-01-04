@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="tr.edu.medipol.yoa.metin.MetinIslemleriTest" time="0.041" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="tr.edu.medipol.yoa.metin.MetinIslemleriTest" time="0.059" errors="0" skipped="0">
   <properties>
     <property name="jansi.mode" value="force"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -27,7 +27,7 @@
     <property name="user.variant" value=""/>
     <property name="stderr.encoding" value="Cp1254"/>
     <property name="os.name" value="Windows 11"/>
-    <property name="classworlds.conf" value="C:\Users\volka\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6768688102478048982.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\volka\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf11378794756069873930.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1254"/>
     <property name="stdout.encoding" value="Cp1254"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk-19\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Users\volka\AppData\Local\Microsoft\WindowsApps;C:\src\flutter\flutter\bin;;C:\Users\volka\AppData\Local\Programs\Microsoft VS Code\bin;."/>
@@ -61,5 +61,5 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="tr.edu.medipol.yoa.metin.MetinIslemleriTest" name="testBosluklariTemizle" time="0.041"/>
+  <testcase classname="tr.edu.medipol.yoa.metin.MetinIslemleriTest" name="testBosluklariTemizle" time="0.059"/>
 </testsuite>
